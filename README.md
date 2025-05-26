@@ -1,3 +1,3 @@
-# task-1-data-cleaning
-Titanic dataset - Data cleaning and preprocessing 
-"This project is about cleaning data using Python and Pandas."
+## Task 1 - Data Cleaning
+This project involves cleaning and preparing data for further analysis.
+Tools used include Pandas and Python.
