@@ -1,5 +1,5 @@
-## Task 1 
-# Titanic Dataset - Data Cleaning & Preprocessing
+## 📌 Task 1: AI & ML Internship Assignment
+# 🚢 Titanic Dataset - Data Cleaning & Preprocessing
 
 This repository contains my work on data cleaning and preprocessing as part of my AI/ML internship at **Elevate Labs**. The goal was to prepare raw data from the Titanic dataset for machine learning models by applying key preprocessing techniques.
 
